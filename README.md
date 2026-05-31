@@ -63,6 +63,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Demo
+
+- Hosted demo URL: `https://example.com/neon-overdrive-demo`
+- Local demo: run `python main.py`
+
 ## Controls
 
 | Input | Action |
