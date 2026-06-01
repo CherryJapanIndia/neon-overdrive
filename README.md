@@ -24,8 +24,6 @@ pip install -r requirements.txt
 ```
 
 ## Demo
-
-- Hosted demo URL: `https://example.com/neon-overdrive-demo`
 - Local demo: run 'python main.py'
 
 # Controls
@@ -57,7 +55,6 @@ neon_overdrive/
 ## License
 
 MIT License — See LICENSE file for details
-
-Contributing
+<img width="1408" height="768" alt="Gemini_Generated_Image_t1z2gt1z2gt1z2gt" src="https://github.com/user-attachments/assets/3aa50fd0-9267-4bfe-81b4-d9ac0e21e005" />
 
 Contributions welcome!
