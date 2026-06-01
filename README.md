@@ -1,6 +1,6 @@
 # NEON OVERDRIVE 
 
-Neon Overdrive is a top down racing game i built, using python and pygame and well copilot. Well im new to python :D. And i tried my bestb so yeah, love yuh :>.
+Neon Overdrive is a top down racing game i built, using python and pygame and well copilot. Well im new to python :D. And i tried my best so yeah, love yuh :>.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Pygame](https://img.shields.io/badge/pygame-2.5+-brightgreen)
