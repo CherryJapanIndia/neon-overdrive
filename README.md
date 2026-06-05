@@ -14,7 +14,7 @@ Neon Overdrive is a top down racing game i built, using python and pygame and we
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/neon-overdrive.git
+git clone https://github.com/CherryJapanIndia/neon-overdrive.git
 cd neon-overdrive
 ```
 
